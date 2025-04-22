@@ -4,14 +4,14 @@
 }
 
 body {
-  background-image: url("/img/InkSumos_wallpaper.png");
+  background-image: url("assets/img/InkSumos_wallpaper.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
   margin: 0;
   padding: 0;
   overflow-x: hidden;
-  cursor: url("/img/cursorink_white.png"), auto;
+  cursor: url("assets/img/cursorink_white.png"), auto;
 }
 
 @keyframes cambiarColor {
